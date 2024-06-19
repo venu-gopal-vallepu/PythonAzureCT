@@ -1,0 +1,10 @@
+pytest-bdd
+selenium
+pytest
+requests
+allure-pytest-bdd
+pyyaml
+cx-Oracle
+pytest-env
+cryptography
+junitparser
